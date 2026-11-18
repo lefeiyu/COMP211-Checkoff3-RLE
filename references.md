@@ -1,20 +1,24 @@
 # References
 
-## Sources consulted while preparing this repository
+## Sources Consulted
 
-The following sources were checked to confirm the technical explanations and C syntax used in this project:
+These sources were used to check the explanation of RLE and the C syntax in this project.
 
-1. Adobe. [*PDF Reference, version 1.5*](https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.5_v6.pdf), section 3.3.4, “RunLengthDecode Filter.” This specification describes a real byte-oriented RLE format and notes that the amount of compression depends on the input data.
-2. cppreference.com. [“while loop”](https://en.cppreference.com/w/c/language/while). This reference explains how a C `while` statement repeatedly executes while its condition is nonzero.
-3. cppreference.com. [“printf, fprintf, sprintf, snprintf”](https://en.cppreference.com/w/c/io/printf). This reference documents formatted output in C, including the `%d` and `%c` conversions used by the program.
+1. Adobe Systems Incorporated. [*PDF Reference, Version 1.5*](https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.5_v6.pdf). Section 3.3.4, “RunLengthDecode Filter,” 2003. Accessed November 18, 2026.
 
-These sources were consulted for this repository. They are not claims about which sources the student used before this draft was created.
+   This section describes a real byte-based run-length encoding format and explains that its compression results depend on the input data.
 
-## Suggested additional resources
+2. cppreference.com. [“while Loop”](https://en.cppreference.com/w/c/language/while). Accessed November 18, 2026.
 
-These are useful educational resources, but they are listed as suggestions rather than sources the student claims to have read:
+   This page explains how a `while` loop repeatedly runs while its condition remains true.
 
-- Library of Congress. [“Aspects of Collection Analysis for Preservation Digitization”](https://www.loc.gov/preservation/resources/rt/guide/guid_asp.html). This page gives background on lossless and lossy image compression.
-- cppreference.com. [“C language”](https://en.cppreference.com/w/c/language). This is a broader reference for C language concepts and syntax.
+3. cppreference.com. [“printf, fprintf, sprintf, snprintf”](https://en.cppreference.com/w/c/io/printf). Accessed November 18, 2026.
 
-Before submitting, the student should update this page if the assignment requires a record of only the sources they personally consulted.
+   This page documents formatted output in C, including the `%d` and `%c` conversions used in `rle.c`.
+
+## Suggested Additional Resources
+
+The following sources provide useful background, but they were not used directly to write the program.
+
+- Library of Congress. [“Aspects of Collection Analysis for Preservation Digitization”](https://www.loc.gov/preservation/resources/rt/guide/guid_asp.html). Accessed November 18, 2026. This page gives an overview of lossless and lossy image compression.
+- cppreference.com. [“C Language”](https://en.cppreference.com/w/c/language). Accessed November 18, 2026. This page provides a broader reference for C language concepts and syntax.
