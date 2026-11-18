@@ -24,4 +24,4 @@ If I did this project again, I would decide on the supported input and encoding 
 
 ## AI Conversation Permalink
 
-`[PASTE THE SHARE/PERMALINK TO THE AI CONVERSATION HERE]`
+[ChatGPT conversation](https://chatgpt.com/share/6afe07fc-0634-83ea-8c6f-c12dcdb32304)
