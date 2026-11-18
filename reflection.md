@@ -1,6 +1,6 @@
 # AI Exploration Reflection — Draft
 
-> **Draft for review:** I need to personalize this reflection before submitting it. I also need to replace every bracketed placeholder with my exact information.
+> **Draft for review:** I need to personalize this reflection before submitting it and add the conversation permalink below.
 
 I approached run-length encoding by breaking the topic into smaller steps. I first asked for a beginner-level explanation of RLE because I wanted to understand the main idea before looking at code. My initial questions were how the program knows when one run ends, how it keeps track of the number of repeated characters, and how an encoded string can be turned back into the original string without losing information.
 
@@ -12,11 +12,17 @@ If I did this project again, I would decide on the supported input and encoding 
 
 ## Required AI conversation evidence
 
-Replace these placeholders with 2–3 prompts copied exactly from the actual conversation:
+### Prompt 1 — Understanding RLE with My Background
 
-1. **Prompt 1:** `[PASTE EXACT PROMPT HERE]`
-2. **Prompt 2:** `[PASTE EXACT PROMPT HERE]`
-3. **Prompt 3 (optional):** `[PASTE EXACT PROMPT HERE OR DELETE THIS ITEM]`
+> "Can you explain what Run-Length Encoding (RLE) is? I'm currently taking COMP 211, and I've learned some basic concepts in C and computer systems, such as pointers, memory management, the stack and heap, and loops. However, I haven't learned much about data compression. Could you explain RLE from the beginning and connect it to things I already know?"
+
+### Prompt 2 — Understanding the Algorithm in C
+
+> "I understand that RLE counts consecutive repeated characters, but I'm still confused about how a computer actually does this. Since I've learned about strings, pointers, and while loops in COMP 211, can you walk me through a simple C implementation? Please explain what each variable does and how the program changes step by step."
+
+### Prompt 3 — Exploring RLE's Limitations
+
+> "I thought compression was supposed to make data smaller, but I noticed that RLE can actually make some strings longer. Why does that happen? Can you compare an example with many repeated characters to one without repetition, and explain when RLE is useful in real-world applications?"
 
 **Conversation permalink:** `[PASTE THE SHARE/PERMALINK TO THE AI CONVERSATION HERE]`
 
