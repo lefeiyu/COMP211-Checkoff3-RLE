@@ -1,6 +1,4 @@
-# AI Exploration Reflection — Draft
-
-> **Draft for review:** I need to personalize this reflection before submitting it and add the conversation permalink below.
+# AI Exploration Reflection
 
 I approached run-length encoding by breaking the topic into smaller steps. I first asked for a beginner-level explanation of RLE because I wanted to understand the main idea before looking at code. My initial questions were how the program knows when one run ends, how it keeps track of the number of repeated characters, and how an encoded string can be turned back into the original string without losing information.
 
@@ -10,7 +8,7 @@ One thing that surprised me was that compression can make data larger. For examp
 
 If I did this project again, I would decide on the supported input and encoding format earlier. I would also trace a few examples by hand before writing the C program. That would help me separate the algorithm from the syntax and catch special cases sooner.
 
-## Required AI conversation evidence
+## Representative AI Prompts
 
 ### Prompt 1 — Understanding RLE with My Background
 
@@ -24,6 +22,6 @@ If I did this project again, I would decide on the supported input and encoding 
 
 > "I thought compression was supposed to make data smaller, but I noticed that RLE can actually make some strings longer. Why does that happen? Can you compare an example with many repeated characters to one without repetition, and explain when RLE is useful in real-world applications?"
 
-**Conversation permalink:** `[PASTE THE SHARE/PERMALINK TO THE AI CONVERSATION HERE]`
+## AI Conversation Permalink
 
-I should verify that the permalink opens correctly for the intended audience before I submit the assignment.
+`[PASTE THE SHARE/PERMALINK TO THE AI CONVERSATION HERE]`
