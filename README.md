@@ -86,6 +86,6 @@ The main idea is simple, but the format matters as much as the loop. The count-c
 
 ## Presentation materials and references
 
-My presentation belongs in the [`presentation`](presentation/) folder. The current placeholder explains where to add the original presentation file; it does not replace the student's slides.
+My original presentation is included in the [`presentation`](presentation/) folder as `RLE_COMP211_Plain_Student_Style.pptx`.
 
 Educational sources and notes about how they were used are listed in [`references.md`](references.md). A draft of the required AI exploration reflection is in [`reflection.md`](reflection.md).
